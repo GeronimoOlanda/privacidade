@@ -3,18 +3,16 @@ import './App.css';
 
 function App() {
   const politicaDePrivacidadeStyle = {
-    textAlign: 'center',
+    textAlign: 'left',
+    paddingLeft: '100px'
     // Adicione outros estilos conforme necessário
   };
 
   return (
     <div className="App" style={politicaDePrivacidadeStyle}>
-      <h1>Getha - Anotações</h1>
       <p>
-        <strong>Política de Privacidade para o Getha - Anotações</strong>
-        <br />
-        <br />
-        <strong>Última atualização:</strong> [05/12/2023 às 14:30]
+        <strong><center> <h1> Política de Privacidade Getha </h1></center></strong>
+        <center><strong>Última atualização:</strong> Dezembro de 2023.</center> 
         <br />
         <br />
         <strong>1. Informações que Coletamos:</strong>
@@ -60,7 +58,7 @@ function App() {
         Para mais informações sobre como suas informações são tratadas, entre em contato conosco em getha.olanda@gmail.com.
         <br />
         <br />
-        Obrigado por escolher o Getha - Anotações!
+        <center>Obrigado por escolher nossos produtos!</center>
       </p>
     </div>
   );
