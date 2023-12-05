@@ -11,7 +11,7 @@ function App() {
     <div className="App" style={politicaDePrivacidadeStyle}>
       <h1>Getha - Anotações</h1>
       <p>
-        <strong>Política de Privacidade para o Seu Aplicativo</strong>
+        <strong>Política de Privacidade para o Getha - Anotações</strong>
         <br />
         <br />
         <strong>Última atualização:</strong> [05/12/2023 às 14:30]
