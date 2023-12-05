@@ -52,7 +52,7 @@ function App() {
         <br />
         <strong>8. Consentimento:</strong>
         <br />
-        Ao utilizar o Getha - Anotações, o usuário concorda com os termos desta política de privacidade.
+        Ao utilizar os produtos Getha, o usuário concorda com os termos desta política de privacidade.
         <br />
         <br />
         Para mais informações sobre como suas informações são tratadas, entre em contato conosco em getha.olanda@gmail.com.
